@@ -1,0 +1,7 @@
+{
+  "buyAmountUsd": 10,
+  "maxBuyPrice": 0.85,
+  "maxSpread": 0.1,
+  "takeProfitDelta": 0.15,
+  "monitorPollMs": 1500
+}

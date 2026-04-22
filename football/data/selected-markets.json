@@ -1,0 +1,112 @@
+{
+  "league": "laliga",
+  "eventSlugs": [
+    "lal-mal-val-2026-04-21",
+    "lal-bil-osa-2026-04-21",
+    "lal-gir-bet-2026-04-21",
+    "lal-rea-ala-2026-04-21",
+    "lal-elc-mad-2026-04-22",
+    "lal-rso-get-2026-04-22",
+    "lal-bar-cel-2026-04-22",
+    "lal-lev-sev-2026-04-23"
+  ],
+  "markets": [
+    {
+      "eventSlug": "lal-mal-val-2026-04-21",
+      "eventTitle": "RCD Mallorca vs. Valencia CF",
+      "marketSlug": "lal-mal-val-2026-04-21-mal",
+      "conditionId": "0xa9987756ce24d000fc003ca7ad64bede989e35f9b12a8b63dc68148b34522319",
+      "homeCode": "mal",
+      "awayCode": "val",
+      "homeTeam": "RCD Mallorca",
+      "awayTeam": "Valencia CF",
+      "homeTokenId": "61919306698469907194872595563806379260036438889999447055883331270764471430864",
+      "awayTokenId": "97109853659303362716998187837024467244747426189990851513538643492516265691014"
+    },
+    {
+      "eventSlug": "lal-bil-osa-2026-04-21",
+      "eventTitle": "Athletic Club vs. CA Osasuna",
+      "marketSlug": "lal-bil-osa-2026-04-21-bil",
+      "conditionId": "0x04a49c759879b8c588c309a100b9443766e9678eee496b2c1aa6e1d897cbb662",
+      "homeCode": "bil",
+      "awayCode": "osa",
+      "homeTeam": "Athletic Club",
+      "awayTeam": "CA Osasuna",
+      "homeTokenId": "83143547095428294389911065744818105224935373908332226823770751765567623310959",
+      "awayTokenId": "84470656457766191268394791981183142159193439097228038026538853433878125262899"
+    },
+    {
+      "eventSlug": "lal-gir-bet-2026-04-21",
+      "eventTitle": "Girona FC vs. Real Betis Balompié",
+      "marketSlug": "lal-gir-bet-2026-04-21-gir",
+      "conditionId": "0xeb31355f113881c0381366b98cf281a5c60401898fe34cad44af644d20ccd578",
+      "homeCode": "gir",
+      "awayCode": "bet",
+      "homeTeam": "Girona FC",
+      "awayTeam": "Real Betis Balompié",
+      "homeTokenId": "95848455999371072013424100787130909374864168405574639086294605714934029328203",
+      "awayTokenId": "55210229506874548111648459625475031382725875541978411805453378873070938507233"
+    },
+    {
+      "eventSlug": "lal-rea-ala-2026-04-21",
+      "eventTitle": "Real Madrid CF vs. Deportivo Alavés",
+      "marketSlug": "lal-rea-ala-2026-04-21-rea",
+      "conditionId": "0x062918e2e53609c5eecbc396b65d714fe72dfff5e4829f5de83a71391e89c358",
+      "homeCode": "rea",
+      "awayCode": "ala",
+      "homeTeam": "Real Madrid CF",
+      "awayTeam": "Deportivo Alavés",
+      "homeTokenId": "105899810932776231806924552169917745568781300665841654826556502087018109434318",
+      "awayTokenId": "62595417307834615866152212387796238844076721936572949030828437876521656748592"
+    },
+    {
+      "eventSlug": "lal-elc-mad-2026-04-22",
+      "eventTitle": "Elche CF vs. Club Atlético de Madrid",
+      "marketSlug": "lal-elc-mad-2026-04-22-elc",
+      "conditionId": "0xb397b0688ee327cd88443c19d9172e94ba6c2c1d7bdd257fe8f41f168116d180",
+      "homeCode": "elc",
+      "awayCode": "mad",
+      "homeTeam": "Elche CF",
+      "awayTeam": "Club Atlético de Madrid",
+      "homeTokenId": "27699975533257772650988656130248825800994308474672207734484532869620302037655",
+      "awayTokenId": "17684283368478579011485556298092659675294671893414587403391837552748491189817"
+    },
+    {
+      "eventSlug": "lal-rso-get-2026-04-22",
+      "eventTitle": "Real Sociedad de Fútbol vs. Getafe CF",
+      "marketSlug": "lal-rso-get-2026-04-22-rso",
+      "conditionId": "0xf7774c1abc013938e05b8a2073e0cf9876612ae49fb2fe828953675042ee4190",
+      "homeCode": "rso",
+      "awayCode": "get",
+      "homeTeam": "Real Sociedad de Fútbol",
+      "awayTeam": "Getafe CF",
+      "homeTokenId": "56603101520183307856247201405002533156649451667369821089114279102025205105349",
+      "awayTokenId": "81264206779664384809895025511852188809529769913292826981696063194796903488921"
+    },
+    {
+      "eventSlug": "lal-bar-cel-2026-04-22",
+      "eventTitle": "FC Barcelona vs. RC Celta de Vigo",
+      "marketSlug": "lal-bar-cel-2026-04-22-bar",
+      "conditionId": "0xda9243da774d9bcd9bd73cfda75f7cffc2be99af858c69d47ecf09cc9ab7629d",
+      "homeCode": "bar",
+      "awayCode": "cel",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "RC Celta de Vigo",
+      "homeTokenId": "6414910570154344493926686441986701647094418157466709066406597031504284340622",
+      "awayTokenId": "55463439421112654622088608919383609804751238414518862939578160069095276780681"
+    },
+    {
+      "eventSlug": "lal-lev-sev-2026-04-23",
+      "eventTitle": "Levante UD vs. Sevilla FC",
+      "marketSlug": "lal-lev-sev-2026-04-23-lev",
+      "conditionId": "0x68344d6ecf7c48e2530bc2c132882bbe7654e3b7b839c74b0509b1963f439994",
+      "homeCode": "lev",
+      "awayCode": "sev",
+      "homeTeam": "Levante UD",
+      "awayTeam": "Sevilla FC",
+      "homeTokenId": "104594823055163941674484236457865908466062436369697732310431197343842930439065",
+      "awayTokenId": "57803252431225186899419009211788447094168717925140408687845440384396249651583"
+    }
+  ],
+  "updatedAt": "2026-04-20T16:30:28.271Z"
+}
