@@ -1,0 +1,64 @@
+{
+  "league": "atp",
+  "eventSlugs": [
+    "atp-fatic-tseng-2026-04-21",
+    "atp-onclin-stromba-2026-04-21",
+    "atp-giunta-fenty-2026-04-21",
+    "atp-singh-alkaya-2026-04-21"
+  ],
+  "markets": [
+    {
+      "eventSlug": "atp-fatic-tseng-2026-04-21",
+      "eventTitle": "Rome: Nerman Fatic vs Chun-Hsin Tseng",
+      "marketSlug": "atp-fatic-tseng-2026-04-21",
+      "conditionId": "0x504fb60a67da9c979ccdc36cebdb35f317297448b26be29f90c7c30d20902457",
+      "homeCode": "fatic",
+      "awayCode": "tseng",
+      "homeTeam": "Nerman Fatic",
+      "awayTeam": "Chun-Hsin Tseng",
+      "homeTokenId": "46129493217068292335988953458566963321023444776560136911554363546726121041185",
+      "awayTokenId": "91022831389670855358919371484848283611776108854578467180321235436641162873579"
+    },
+    {
+      "eventSlug": "atp-onclin-stromba-2026-04-21",
+      "eventTitle": "Abidjan: Gauthier Onclin vs Robert Strombachs",
+      "marketSlug": "atp-onclin-stromba-2026-04-21",
+      "conditionId": "0xa89cfbc0ccfb8a9f43c0f841db7dfb405007928ba84e6aa9704376ff203c7131",
+      "homeCode": "onclin",
+      "awayCode": "stromba",
+      "homeTeam": "Gauthier Onclin",
+      "awayTeam": "Robert Strombachs",
+      "homeTokenId": "43381933205715450449669320430025974778689810769564950147179715631811465695505",
+      "awayTokenId": "110277957005966031730006457840758322656614041238924409332174678013829484546993",
+      "homeLogoUrl": "https://polymarket-upload.s3.us-east-2.amazonaws.com/country-flags/bel.png"
+    },
+    {
+      "eventSlug": "atp-giunta-fenty-2026-04-21",
+      "eventTitle": "Abidjan: Massimo Giunta vs Andrew Fenty",
+      "marketSlug": "atp-giunta-fenty-2026-04-21",
+      "conditionId": "0x88142152c5269f9a907cb5d22cee8cc38687c4a7fa4b6bff3befa7bf3043d7b7",
+      "homeCode": "giunta",
+      "awayCode": "fenty",
+      "homeTeam": "Massimo Giunta",
+      "awayTeam": "Andrew Fenty",
+      "homeTokenId": "110362911174687483709231989172346450174673559901583023974393284427651622287818",
+      "awayTokenId": "16125886247511243783488743572055712959847671573091799504292328182148942438476",
+      "awayLogoUrl": "https://polymarket-upload.s3.us-east-2.amazonaws.com/country-flags/usa.png"
+    },
+    {
+      "eventSlug": "atp-singh-alkaya-2026-04-21",
+      "eventTitle": "Abidjan: Digvijaypratap Singh vs Mert Alkaya",
+      "marketSlug": "atp-singh-alkaya-2026-04-21",
+      "conditionId": "0xc417367f5bf29c7d055fdea40f20e2d140db194ceb11b37d263c7fabf8f5d4db",
+      "homeCode": "singh",
+      "awayCode": "alkaya",
+      "homeTeam": "Digvijaypratap Singh",
+      "awayTeam": "Mert Alkaya",
+      "homeTokenId": "15151086848782095701332296372187623383959585887980140182599128250684312911906",
+      "awayTokenId": "72113068170664636825061920293616126819184426654840744152072927964632881749599",
+      "homeLogoUrl": "https://polymarket-upload.s3.us-east-2.amazonaws.com/country-flags/ind.png",
+      "awayLogoUrl": "https://polymarket-upload.s3.us-east-2.amazonaws.com/country-flags/tur.png"
+    }
+  ],
+  "updatedAt": "2026-04-20T17:35:07.592Z"
+}

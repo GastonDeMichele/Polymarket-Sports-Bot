@@ -1,0 +1,204 @@
+[2026-04-20T15:20:38.112Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T15:20:39.049Z] SUCCESS AUTH Credential saved :: 0x1345...e604
+[2026-04-20T15:20:39.358Z] INFO BOOT Running allowance checks
+[2026-04-20T15:20:39.359Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T15:20:45.509Z] SUCCESS ALLOW Safe proxy approve tx sent :: 0x7190b4bb16dd6561b9b4aca87806ccb3c0469ff9cfad443b9a5836de367a1d19
+[2026-04-20T15:20:48.794Z] SUCCESS ALLOW EOA approve tx sent :: 0x1b241768742073b6564e5c74fd89a53f8cd04b681142d2c80c0b934141467a57
+[2026-04-20T15:21:07.215Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T15:21:07.216Z] INFO AUTH Using saved credential
+[2026-04-20T15:21:07.825Z] INFO BOOT Running allowance checks
+[2026-04-20T15:21:07.825Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T15:21:08.858Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T15:21:11.141Z] SUCCESS ALLOW EOA approve tx sent :: 0x34de89bdc41f8e3875c2c89c810a39680126603e3b0dc510e1d743457bafcc36
+[2026-04-20T15:21:16.003Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T15:21:16.512Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T15:21:19.271Z] SUCCESS MONITOR Position monitor started :: 0 selected market(s)
+[2026-04-20T15:21:19.990Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T15:22:29.904Z] WARN MENU No matches selected
+[2026-04-20T15:26:06.810Z] ERROR SYSTEM Fatal bootstrap error :: User force closed the prompt with SIGINT
+[2026-04-20T15:26:20.721Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T15:26:20.722Z] INFO AUTH Using saved credential
+[2026-04-20T15:26:21.313Z] INFO BOOT Running allowance checks
+[2026-04-20T15:26:21.314Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T15:26:22.344Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T15:26:24.633Z] SUCCESS ALLOW EOA approve tx sent :: 0xef8cab14653aeaa9ace681fcc10674c557909a905700d8b8fe585306c5d629b7
+[2026-04-20T15:26:29.521Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T15:26:30.015Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T15:26:32.713Z] SUCCESS MONITOR Position monitor started :: 0 selected market(s)
+[2026-04-20T15:26:33.437Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T15:26:39.600Z] ERROR SYSTEM Fatal bootstrap error :: User force closed the prompt with SIGINT
+[2026-04-20T15:38:26.089Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T15:38:26.090Z] INFO AUTH Using saved credential
+[2026-04-20T15:38:26.678Z] INFO BOOT Running allowance checks
+[2026-04-20T15:38:26.679Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T15:38:27.733Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T15:38:30.042Z] SUCCESS ALLOW EOA approve tx sent :: 0x23fdd6ba0f7496957eb2c4894ee99389e401c161d9231a605b390dc6af6d0c5a
+[2026-04-20T15:38:34.915Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T15:38:35.405Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T15:38:38.206Z] SUCCESS MONITOR Position monitor started :: 0 selected market(s)
+[2026-04-20T15:38:38.925Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T15:39:26.437Z] ERROR MENU League menu failed :: User force closed the prompt with SIGINT
+[2026-04-20T15:39:26.605Z] ERROR SYSTEM Fatal bootstrap error :: User force closed the prompt with SIGINT
+[2026-04-20T15:45:42.160Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T15:45:42.161Z] INFO AUTH Using saved credential
+[2026-04-20T15:45:42.725Z] INFO BOOT Running allowance checks
+[2026-04-20T15:45:42.725Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T15:45:43.795Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T15:45:46.236Z] SUCCESS ALLOW EOA approve tx sent :: 0xa953fc5fd7e6cbeeb91fbd3017ed6b628bf3b014bbf0de22e2363fcf2b9e6ba7
+[2026-04-20T15:45:51.173Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T15:45:51.681Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T15:45:54.695Z] SUCCESS MONITOR Position monitor started :: 0 selected market(s)
+[2026-04-20T15:45:55.398Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T15:48:16.042Z] ERROR MENU League menu failed :: User force closed the prompt with SIGINT
+[2026-04-20T15:48:18.155Z] ERROR SYSTEM Fatal bootstrap error :: User force closed the prompt with SIGINT
+[2026-04-20T15:48:33.400Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T15:48:33.401Z] INFO AUTH Using saved credential
+[2026-04-20T15:48:33.988Z] INFO BOOT Running allowance checks
+[2026-04-20T15:48:33.989Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T15:48:35.096Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T15:48:37.441Z] SUCCESS ALLOW EOA approve tx sent :: 0xd8741f99d8e388f1a34f299e04c4c79d51877a2c002ef8b40cb434c9004470de
+[2026-04-20T15:48:42.352Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T15:48:42.832Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T15:48:45.509Z] SUCCESS MONITOR Position monitor started :: 0 selected market(s)
+[2026-04-20T15:48:46.268Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T15:50:24.716Z] ERROR MENU League menu failed :: User force closed the prompt with SIGINT
+[2026-04-20T15:54:54.117Z] ERROR SYSTEM Fatal bootstrap error :: User force closed the prompt with SIGINT
+[2026-04-20T15:55:16.764Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T15:55:16.765Z] INFO AUTH Using saved credential
+[2026-04-20T15:55:17.346Z] INFO BOOT Running allowance checks
+[2026-04-20T15:55:17.346Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T15:55:18.452Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T15:55:21.052Z] SUCCESS ALLOW EOA approve tx sent :: 0xdf2e40f64a00010ca59b00d87204d1f793d5175c399939caf5bd333154ea14d2
+[2026-04-20T15:55:25.992Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T15:55:26.475Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T15:55:29.165Z] SUCCESS MONITOR Position monitor started :: 0 selected market(s)
+[2026-04-20T15:55:29.878Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T15:56:03.048Z] WARN MENU No matches selected
+[2026-04-20T15:56:55.371Z] ERROR SYSTEM Fatal bootstrap error :: User force closed the prompt with SIGINT
+[2026-04-20T16:08:23.545Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T16:08:23.546Z] INFO AUTH Using saved credential
+[2026-04-20T16:08:24.142Z] INFO BOOT Running allowance checks
+[2026-04-20T16:08:24.157Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T16:08:25.281Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T16:08:27.775Z] SUCCESS ALLOW EOA approve tx sent :: 0xa47de8888cc3b5747c3be005569458a55c95581bd5f018ef690805309218595d
+[2026-04-20T16:08:32.716Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T16:08:33.208Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T16:08:35.902Z] SUCCESS MONITOR Position monitor started :: 0 selected market(s)
+[2026-04-20T16:08:36.653Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T16:08:57.609Z] INFO MENU Tip: press SPACE to select, ENTER to submit
+[2026-04-20T16:09:41.433Z] WARN MENU No matches selected (nothing changed). Use SPACE to mark matches.
+[2026-04-20T16:14:55.082Z] ERROR SYSTEM Fatal bootstrap error :: User force closed the prompt with SIGINT
+[2026-04-20T16:15:12.450Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T16:15:12.451Z] INFO AUTH Using saved credential
+[2026-04-20T16:15:13.060Z] INFO BOOT Running allowance checks
+[2026-04-20T16:15:13.061Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T16:15:14.170Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T16:15:16.585Z] SUCCESS ALLOW EOA approve tx sent :: 0xe72e83c0fe140bdfeb04aa6e14d5c15b8eee5b7a4cbcbb8d37ff1c4803fd5c46
+[2026-04-20T16:15:21.534Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T16:15:22.027Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T16:15:24.769Z] SUCCESS MONITOR Position monitor started :: 0 selected market(s)
+[2026-04-20T16:15:25.489Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T16:15:46.226Z] INFO MENU Tip: press SPACE to select, ENTER to submit
+[2026-04-20T16:16:03.514Z] WARN MENU No matches selected (nothing changed). Use SPACE to mark matches.
+[2026-04-20T16:16:34.459Z] INFO MENU Tip: press SPACE to select, ENTER to submit
+[2026-04-20T16:16:47.742Z] INFO MONITOR Selection file changed :: 3 market(s)
+[2026-04-20T16:16:47.743Z] INFO MONITOR Selection file changed :: 3 market(s)
+[2026-04-20T16:16:47.743Z] INFO MONITOR Selection file changed :: 3 market(s)
+[2026-04-20T16:16:47.744Z] INFO MONITOR Selection file changed :: 3 market(s)
+[2026-04-20T16:16:47.745Z] SUCCESS MENU Selection saved :: 3 market(s)
+[2026-04-20T16:16:47.745Z] INFO MONITOR Selection file changed :: 3 market(s)
+[2026-04-20T16:16:47.748Z] INFO MONITOR Selection file changed :: 3 market(s)
+[2026-04-20T16:16:47.750Z] INFO MONITOR Selection reloaded :: 3 market(s)
+[2026-04-20T16:16:47.751Z] INFO MONITOR Selection file changed :: 3 market(s)
+[2026-04-20T16:16:47.751Z] INFO MONITOR Selection file changed :: 3 market(s)
+[2026-04-20T16:17:22.318Z] INFO MENU Exiting menu
+[2026-04-20T16:17:22.319Z] INFO MONITOR Stopping monitor (SIGTERM)
+[2026-04-20T16:17:22.326Z] WARN SYSTEM Monitor worker exited :: 0
+[2026-04-20T16:26:24.835Z] WARN MONITOR Sports websocket disconnected, reconnecting in 3s
+[2026-04-20T16:26:28.547Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T16:29:19.412Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T16:29:19.413Z] INFO AUTH Using saved credential
+[2026-04-20T16:29:19.985Z] INFO BOOT Running allowance checks
+[2026-04-20T16:29:19.985Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T16:29:21.148Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T16:29:23.886Z] SUCCESS ALLOW EOA approve tx sent :: 0xda615477db378388b985c4f82a863b8bb9ea7c6a34faa64c705b7c0434018b5c
+[2026-04-20T16:29:28.821Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T16:29:29.315Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T16:29:32.061Z] SUCCESS MONITOR Position monitor started :: 3 selected market(s)
+[2026-04-20T16:29:32.781Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T16:29:47.552Z] INFO MENU Tip: press SPACE to select, ENTER to submit
+[2026-04-20T16:30:00.465Z] WARN MENU No matches selected (nothing changed). Use SPACE to mark matches.
+[2026-04-20T16:30:13.024Z] INFO MENU Tip: press SPACE to select, ENTER to submit
+[2026-04-20T16:30:28.272Z] INFO MONITOR Selection file changed :: 8 market(s)
+[2026-04-20T16:30:28.272Z] INFO MONITOR Selection file changed :: 8 market(s)
+[2026-04-20T16:30:28.272Z] INFO MONITOR Selection file changed :: 8 market(s)
+[2026-04-20T16:30:28.273Z] INFO MONITOR Selection file changed :: 8 market(s)
+[2026-04-20T16:30:28.274Z] INFO MONITOR Selection file changed :: 8 market(s)
+[2026-04-20T16:30:28.274Z] INFO MONITOR Selection file changed :: 8 market(s)
+[2026-04-20T16:30:28.274Z] INFO MONITOR Selection file changed :: 8 market(s)
+[2026-04-20T16:30:28.275Z] SUCCESS MENU Selection saved :: 8 market(s)
+[2026-04-20T16:30:28.275Z] INFO MONITOR Selection file changed :: 8 market(s)
+[2026-04-20T16:30:28.278Z] INFO MONITOR Selection reloaded :: 8 market(s)
+[2026-04-20T16:30:52.458Z] INFO MENU Exiting menu
+[2026-04-20T16:30:52.459Z] INFO MONITOR Stopping monitor (SIGTERM)
+[2026-04-20T16:30:52.465Z] WARN SYSTEM Monitor worker exited :: 0
+[2026-04-20T16:58:41.484Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T16:58:41.485Z] INFO AUTH Using saved credential
+[2026-04-20T16:58:42.053Z] INFO BOOT Running allowance checks
+[2026-04-20T16:58:42.054Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T16:58:43.124Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T16:58:45.528Z] SUCCESS ALLOW EOA approve tx sent :: 0x41b2a49947f1667f66c7bbf1a0aaab1a341ae20d3e48634fdaa5531926366cd0
+[2026-04-20T16:58:50.459Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T16:58:51.019Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T16:58:53.698Z] SUCCESS MONITOR Position monitor started :: 0 selected market(s)
+[2026-04-20T16:58:54.398Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T16:59:23.633Z] INFO MENU Tip: press SPACE to select, ENTER to submit
+[2026-04-20T16:59:29.858Z] WARN MENU No matches selected (nothing changed). Use SPACE to mark matches.
+[2026-04-20T17:03:51.995Z] INFO MENU Tip: press SPACE to select, ENTER to submit
+[2026-04-20T17:04:30.227Z] WARN MENU Could not resolve moneyline for event :: nba-hou-lal-2026-04-21
+[2026-04-20T17:04:30.227Z] WARN MENU Could not resolve moneyline for event :: nba-phi-bos-2026-04-21
+[2026-04-20T17:04:30.227Z] WARN MENU Could not resolve moneyline for event :: nba-phx-okc-2026-04-22
+[2026-04-20T17:04:30.227Z] WARN MENU Could not resolve moneyline for event :: nba-nyk-atl-2026-04-23
+[2026-04-20T17:04:30.227Z] WARN MENU Could not resolve moneyline for event :: nba-cle-tor-2026-04-23
+[2026-04-20T17:04:30.228Z] WARN MENU Could not resolve moneyline for event :: nba-den-min-2026-04-23
+[2026-04-20T17:04:30.228Z] WARN MENU Could not resolve moneyline for event :: nba-lal-hou-2026-04-24
+[2026-04-20T17:04:30.228Z] WARN MENU Could not resolve moneyline for event :: nba-sas-por-2026-04-24
+[2026-04-20T17:04:30.228Z] WARN MENU Could not resolve moneyline for event :: nba-bos-phi-2026-04-24
+[2026-04-20T17:04:30.228Z] WARN MENU No tradable markets resolved from selection
+[2026-04-20T17:04:44.660Z] INFO MENU Exiting menu
+[2026-04-20T17:04:44.660Z] INFO MONITOR Stopping monitor (SIGTERM)
+[2026-04-20T17:04:44.669Z] WARN SYSTEM Monitor worker exited :: 0
+[2026-04-20T17:09:45.366Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T17:09:45.367Z] INFO AUTH Using saved credential
+[2026-04-20T17:09:45.933Z] INFO BOOT Running allowance checks
+[2026-04-20T17:09:45.934Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T17:09:46.994Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T17:09:49.151Z] SUCCESS ALLOW EOA approve tx sent :: 0xcee57f432dcf1c855eb6e383d675eee38603b3507f4c30b80415b58407a14e19
+[2026-04-20T17:09:54.050Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T17:09:54.534Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T17:09:57.197Z] SUCCESS MONITOR Position monitor started :: 0 selected market(s)
+[2026-04-20T17:09:57.932Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T17:10:06.066Z] INFO MENU Tip: press SPACE to select, ENTER to submit
+[2026-04-20T17:10:12.699Z] INFO MONITOR Selection file changed :: 5 market(s)
+[2026-04-20T17:10:12.700Z] SUCCESS MENU Selection saved :: 5 market(s)
+[2026-04-20T17:10:12.701Z] INFO MONITOR Selection reloaded :: 5 market(s)
+[2026-04-20T17:10:32.598Z] INFO MENU Exiting menu
+[2026-04-20T17:10:32.599Z] INFO MONITOR Stopping monitor (SIGTERM)
+[2026-04-20T17:10:32.605Z] WARN SYSTEM Monitor worker exited :: 0
+[2026-04-20T17:11:20.848Z] INFO BOOT Bootstrapping credentials
+[2026-04-20T17:11:20.849Z] INFO AUTH Using saved credential
+[2026-04-20T17:11:21.418Z] INFO BOOT Running allowance checks
+[2026-04-20T17:11:21.419Z] INFO ALLOW Safe proxy detected, checking allowance
+[2026-04-20T17:11:22.520Z] SUCCESS ALLOW Safe proxy allowance already max
+[2026-04-20T17:11:25.087Z] SUCCESS ALLOW EOA approve tx sent :: 0x97f49e39bfd4d1fbfcc3dc95dc9671d5a565989c1b57b78d4bb9d9650fbc1063
+[2026-04-20T17:11:30.097Z] SUCCESS ALLOW EOA approve confirmed
+[2026-04-20T17:11:30.574Z] SUCCESS ALLOW CLOB allowance synced
+[2026-04-20T17:11:33.349Z] SUCCESS MONITOR Position monitor started :: 5 selected market(s)
+[2026-04-20T17:11:34.095Z] SUCCESS MONITOR Connected to sports websocket
+[2026-04-20T17:11:49.509Z] INFO MENU Tip: press SPACE to select, ENTER to submit
+[2026-04-20T17:12:01.045Z] INFO MONITOR Selection file changed :: 14 market(s)
+[2026-04-20T17:12:01.046Z] SUCCESS MENU Selection saved :: 14 market(s)
+[2026-04-20T17:12:01.049Z] INFO MONITOR Selection reloaded :: 14 market(s)
+[2026-04-20T17:12:16.474Z] INFO MENU Exiting menu
+[2026-04-20T17:12:16.475Z] INFO MONITOR Stopping monitor (SIGTERM)
+[2026-04-20T17:12:16.485Z] WARN SYSTEM Monitor worker exited :: 0

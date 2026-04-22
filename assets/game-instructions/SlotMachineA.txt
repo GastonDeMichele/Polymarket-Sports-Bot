@@ -1,4 +1,0 @@
-Instrucciones de SlotMachineA:
-1. Gira las ruedas y espera el resultado.
-2. Si obtienes tres símbolos iguales, ganas.
-3. Apuesta mínima: 10.

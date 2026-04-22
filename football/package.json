@@ -1,0 +1,45 @@
+{
+  "name": "polymarket-sports-football-trading-bot",
+  "version": "1.0.0",
+  "description": "Production Polymarket football trading bot with menu + background monitor",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "monitor-worker": "node dist/monitor-worker.js"
+  },
+  "keywords": [
+    "polymarket",
+    "sports",
+    "football",
+    "trading",
+    "bot"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/bignumber": "^5.7.0",
+    "@ethersproject/bytes": "^5.7.0",
+    "@ethersproject/constants": "^5.7.0",
+    "@ethersproject/contracts": "^5.7.0",
+    "@ethersproject/providers": "^5.7.2",
+    "@ethersproject/units": "^5.7.0",
+    "@ethersproject/wallet": "^5.7.0",
+    "@inquirer/prompts": "^7.10.1",
+    "@polymarket/clob-client": "^4.22.8",
+    "@safe-global/protocol-kit": "^6.1.2",
+    "@safe-global/types-kit": "^3.0.0",
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "chokidar": "^4.0.3",
+    "dotenv": "^16.4.5",
+    "ora": "^8.2.0",
+    "ws": "^8.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.35",
+    "@types/ws": "^8.18.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
